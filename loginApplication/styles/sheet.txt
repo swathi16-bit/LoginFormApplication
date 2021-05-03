@@ -1,0 +1,10 @@
+QPushButton[text="Login"]
+{
+color:white;
+background-color:red;
+}
+QPushButton[text="cancel"]
+{
+color:white;
+background-color:green;
+}
